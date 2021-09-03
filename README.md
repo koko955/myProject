@@ -1,2 +1,2 @@
 # myProject
-My project 
+This repo holds: My project 
